@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">Medical Virtual Assistant</string>
+    <string name="loading">Loading…</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="dob">DOB</string>
+    <string name="gender">Gender</string>
+
+
+    <string name="login_header">USER LOGIN</string>
+    <string name="doc_login_header">DOCTOR LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="show_pass">Show Password</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="signin_btn">SIGN IN</string>
+    <string name="signup_txt">Dont have an account? Sign Up</string>
+    <string name="change_lang">Change Language</string>
+    <string name="user">User</string>
+    <string name="doctor">Doctor</string>
+
+    <string name="login_to_user">Login to User</string>
+    <string name="login_to_doctor">Login to Doctor</string>
+
+    <string name="register_header">REGISTER</string>
+    <string name="fullname">Full Name</string>
+    <string name="cnf_pass">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="sign_in_txt">Already a member? Login here</string>
+
+    <string name="update_email_txt">Update Your Email Address</string>
+
+
+    <string name="user_display_picture">User Display Picture</string>
+    <string name="current_email">Current Email</string>
+    <string name="update_email_desc">You can update your email address after you authenticate your profile by entering your password.</string>
+    <string name="authenticate">AUTHENTICATE</string>
+    <string name="new_email">New Email</string>
+    <string name="update_email">UPDATE EMAIL</string>
+    <string name="warning">Your profile not authenticated / verified yet!</string>
+
+    <string name="change_pass_header">Change Your Password</string>
+    <string name="current_pass">Current Password</string>
+    <string name="curr_new_pass">New Password</string>
+    <string name="cnf_curr_new_pass">Confirm New Password</string>
+    <string name="change_pass">CHANGE PASSWORD</string>
+    <string name="change_pass_desc">You can change your password after you authenticate your profile by entering your current password.</string>
+
+    <string name="del_profile_header">Delete Your Profile</string>
+    <string name="delete_profile">DELETE PROFILE</string>
+    <string name="del_profile_desc">You can delete your profile and all related data after you authenticate your profile by entering your current password.</string>
+
+    <string name="update_profile_header">You Can update your profile details now!</string>
+    <string name="update_profile">UPDATE PROFILE</string>
+    <string name="update_profile_photo">UPADTE PROFILE PHOTO</string>
+
+    <string name="forgot_pass_header">Forgot your password?</string>
+    <string name="forgot_pass_desc">Please enter your registered email to receive password reset link</string>
+    <string name="reset_pass">Reset Password</string>
+    <string name="upload_dp">Upload your profile pic</string>
+    <string name="choose_dp">Choose Picture</string>
+    <string name="upload">Upload</string>
+
+    <string name="prediction_icon">Predict Disease</string>
+    <string name="services">Services</string>
+    <string name="vc">Video Consult</string>
+    <string name="medicine">Medicines</string>
+    <string name="top_doc">Top Doctors</string>
+    <string name="predict_header">PREDICT YOUR DISEASE!</string>
+    <string name="predict_desc">Please enter your symptoms to predict disease.</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="predict_btn">Predict Disease</string>
+    <string name="patient_s_name">Patient\'s Name</string>
+    <string name="there_home_remedies_for_everything" />
+    <string name="home_remedies_can_cure_certain_minor_illnesses" />
+    <string name="get_your_remedies" />
+
+    <string name="eye_irritation">eye_irritation</string>
+    <string name="running_nose">running_nose</string>
+    <string name="stuffy_nose">stuffy_nose</string>
+    <string name="watery_eyes">watery_eyes</string>
+    <string name="sneezing">sneezing</string>
+    <string name="itchy_nose">itchy_nose</string>
+    <string name="itchy_throat">itchy_throat</string>
+    <string name="inflamed_throat">inflamed_throat</string>
+    <string name="watery_stools">watery_stools</string>
+    <string name="frequent_bowel_movements">frequent_bowel_movements</string>
+    <string name="abdomen_pain">abdomen_pain</string>
+    <string name="nausea">nausea</string>
+    <string name="bloating">bloating</string>
+    <string name="bloody_stools">bloody_stools</string>
+    <string name="fever">fever</string>
+    <string name="headachae">headachae</string>
+    <string name="more_intense_pain">more_intense_pain</string>
+    <string name="fatigue">fatigue</string>
+    <string name="dry_cough">dry_cough</string>
+    <string name="sore_throat">sore_throat</string>
+    <string name="cough">cough</string>
+    <string name="vomiting">vomiting</string>
+    <string name="heartburn">heartburn</string>
+    <string name="indigestion">indigestion</string>
+    <string name="change_in_apetite">change_in_apetite</string>
+    <string name="anemia">anemia</string>
+    <string name="rashes">rashes</string>
+    <string name="pain_behind_eyes">pain_behind_eyes</string>
+    <string name="pain_in_joints">pain_in_joints</string>
+    <string name="feeling_of_discomfort">feeling_of_discomfort</string>
+    <string name="low_energy">low energy</string>
+    <string name="cough_with_mucus">cough_with_mucus</string>
+    <string name="greenish_yellow_bloody_mucus">greenish_yellow_bloody_mucus</string>
+    <string name="shortness_of_breath">shortness_of_breath</string>
+    <string name="chills">chills</string>
+    <string name="sweating">sweating</string>
+    <string name="shallow_breathing">shallow_breathing</string>
+    <string name="chest_pain">chest_pain</string>
+    <string name="Allergy">Allergy</string>
+    <string name="medical_history" />
+    <string name="call" />
+    <string name="message" />
+    <string name="no_patient_data_found" translatable="false" />
+    <string name="suggested_medicines">Suggested Medicines</string>
+</resources>

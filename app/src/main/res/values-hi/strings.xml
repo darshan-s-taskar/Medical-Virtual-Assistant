@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">चिकित्सा आभासी सहायक</string>
+
+    <string name="loading">लोड हो रहा है…</string>
+    <string name="name">नाम</string>
+    <string name="mobile">मोबाईल</string>
+    <string name="email">ईमेल</string>
+    <string name="dob">जन्म तिथि</string>
+    <string name="gender">लिंग</string>
+    <string name="user">उपयोगकर्ता</string>
+    <string name="doctor">चिकित्सक</string>
+
+    <string name="login_header">उपयोगकर्ता लॉगिन</string>
+    <string name="doc_login_header">चिकित्सक लॉगिन</string>
+    <string name="username">उपयोगकर्ता नाम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="show_pass">पासवर्ड दिखाए</string>
+    <string name="forgot_pass">पासवर्ड भूल गए?</string>
+    <string name="signin_btn">लॉग इन</string>
+    <string name="signup_txt">कोई खाता नहीं है? साइन अप करें</string>
+    <string name="change_lang">भाषा बदलें</string>
+
+    <string name="login_to_user">उपयोगकर्ता लॉग इन करें</string>
+    <string name="login_to_doctor">डॉक्टर लॉगिन करें</string>
+
+    <string name="register_header">पंजीकरण करें</string>
+    <string name="fullname">पूरा नाम</string>
+    <string name="cnf_pass">पासवर्ड की पुष्टि कीजिये</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="male">पुरुष</string>
+    <string name="female">स्त्री</string>
+
+    <string name="sign_in_txt">पहले से ही सदस्य हैं? यहां लॉगिन करें</string>
+
+    <string name="update_email_txt">अपना ईमेल अपडेट करें</string>
+
+    <string name="user_display_picture">उपयोगकर्ता प्रोफाइल फोटो</string>
+    <string name="current_email">वर्तमान ईमेल</string>
+
+    <string name="update_email_desc">अपना पासवर्ड दर्ज करके अपनी प्रोफ़ाइल प्रमाणित करने के बाद आप अपना ईमेल अपडेट कर सकते हैं।</string>
+    <string name="authenticate">प्रमाणित करें</string>
+    <string name="new_email">नया ईमेल</string>
+    <string name="update_email">ईमेल अपडेट करें</string>
+    <string name="warning">आपकी प्रोफ़ाइल अभी तक प्रमाणित/सत्यापित नहीं हुई है!</string>
+
+    <string name="change_pass_header">अपना पासवर्ड बदलें</string>
+    <string name="current_pass">वर्तमान पासवर्ड</string>
+    <string name="change_pass_desc">आप अपना वर्तमान पासवर्ड दर्ज करके अपनी प्रोफ़ाइल प्रमाणित करने के बाद अपना पासवर्ड बदल सकते हैं।</string>
+
+    <string name="curr_new_pass">नया पासवर्ड</string>
+    <string name="cnf_curr_new_pass">नया पासवर्ड कन्फर्म करें</string>
+    <string name="change_pass">पासवर्ड बदलें</string>
+
+    <string name="del_profile_header">अपनी प्रोफ़ाइल हटाएँ</string>
+    <string name="delete_profile">प्रोफ़ाइल हटाएं</string>
+    <string name="del_profile_desc">अपना वर्तमान पासवर्ड दर्ज करके अपनी प्रोफ़ाइल प्रमाणित करने के बाद आप अपनी प्रोफ़ाइल और सभी संबंधित डेटा हटा सकते हैं।</string>
+    <string name="update_profile_header">अब आप अपना प्रोफ़ाइल विवरण अपडेट कर सकते हैं!</string>
+    <string name="update_profile">प्रोफ़ाइल अपडेट करें</string>
+    <string name="update_profile_photo">अपडेट प्रोफाइल फोटो</string>
+
+    <string name="forgot_pass_header">अपना पासवर्ड भूल गए?</string>
+    <string name="forgot_pass_desc">पासवर्ड रीसेट लिंक प्राप्त करने के लिए कृपया अपना पंजीकृत ईमेल दर्ज करें</string>
+    <string name="reset_pass">पासवर्ड रीसेट करें</string>
+
+    <string name="upload_dp">अपना प्रोफ़ाइल फोटो अपलोड करें</string>
+    <string name="choose_dp">फोटो चुनें</string>
+    <string name="upload">अपलोड करें</string>
+
+    <string name="prediction_icon">रोग की खोज</string>
+    <string name="services">सेवाएं</string>
+    <string name="vc">वीडियो परामर्श</string>
+    <string name="medicine">दवाइयाँ</string>
+    <string name="top_doc">शीर्ष चिकित्सक</string>
+    <string name="predict_header">अपनी बीमारी खोजे</string>
+    <string name="predict_desc">बीमारी का पूर्वानुमान लगाने के लिए कृपया अपने लक्षण दर्ज करें।</string>
+    <string name="symptoms">लक्षण</string>
+    <string name="predict_btn">बिमारी का अनुमान</string>
+    <string name="patient_s_name">मरीज का नाम</string>
+    <string name="eye_irritation">आंख में जलन</string>
+    <string name="running_nose">बहता नाक</string>
+    <string name="stuffy_nose">बंद नाक</string>
+    <string name="watery_eyes">नम आँखें</string>
+    <string name="sneezing">छींक आना</string>
+    <string name="itchy_nose">बेचैन नाक</string>
+    <string name="itchy_throat">गले में खारिश</string>
+    <string name="inflamed_throat">गले में सूजन</string>
+    <string name="watery_stools">पानीदार_मल</string>
+    <string name="frequent_bowel_movements">बारंबार_आंत्र_मूवमेंट</string>
+    <string name="abdomen_pain">पेट दर्द</string>
+    <string name="nausea">जी मिचलाना</string>
+    <string name="bloating">सूजन</string>
+    <string name="bloody_stools">मल में खून</string>
+    <string name="fever">बुखार</string>
+    <string name="headachae">सिरदर्द</string>
+    <string name="more_intense_pain">अधिक तीव्र दर्द</string>
+    <string name="fatigue">थकान</string>
+    <string name="dry_cough">सूखी खांसी</string>
+    <string name="sore_throat">गले में खराश</string>
+    <string name="cough">खांसी</string>
+    <string name="vomiting">उल्टी</string>
+    <string name="heartburn">हार्टबर्न</string>
+    <string name="indigestion">अपच</string>
+    <string name="change_in_apetite">भूख में परिवर्तन</string>
+    <string name="anemia">अनीमिया</string>
+    <string name="rashes">दाने</string>
+    <string name="pain_behind_eyes">आंखों के पीछे दर्द</string>
+    <string name="pain_in_joints">जोड़ों में दर्द</string>
+    <string name="feeling_of_discomfort">असहजता का अनुभव</string>
+    <string name="low_energy">कम ऊर्जा</string>
+    <string name="cough_with_mucus">बलगम वाली खांसी</string>
+    <string name="greenish_yellow_bloody_mucus">हरी-पीली खूनी बलगम</string>
+    <string name="shortness_of_breath">सांस लेने में कमी</string>
+    <string name="chills">ठंड</string>
+    <string name="sweating">पसीना</string>
+    <string name="shallow_breathing">गहरी सांस लेने में समस्या</string>
+    <string name="chest_pain">सीने में दर्द</string>
+    <string name="Allergy">एलर्जी</string>
+    <string name="there_home_remedies_for_everything" >हर चीज़ के लिए घरेलू उपचार</string>
+    <string name="home_remedies_can_cure_certain_minor_illnesses" >घरेलू उपचार से कुछ छोटी-मोटी बीमारियों को ठीक किया जा सकता है"</string>
+    <string name="get_your_remedies" >अपना_उपाय प्राप्त करें</string>
+    <string name="medical_history" >चिकित्सा का इतिहास</string>
+    <string name="call" >कॉल</string>
+    <string name="message" >संदेश</string>
+
+
+
+</resources>
