@@ -1,6 +1,6 @@
-# Sick Predict
+# Medical Virtual Assistant
 
-**Sick Predict is Android app that predicts diseases from symptoms and suggests medicine, also allows users to consult with doctors through chat Integrated Gemini API for providing home remedies**
+**Medical Virtual Assistant is an Android app that predicts diseases from symptoms and suggests medicine, also allows users to consult with doctors through chat Integrated Gemini API for providing home remedies**
 
 ## Demo Video
 <div align="center">
@@ -73,27 +73,12 @@ Using the Sick Predict app is straightforward:
 
 ## Contributing
 
-Contributions to the QR Code Scanner app are welcome. If you would like to contribute, please follow these steps or check [Contributing Guidelines](https://github.com/khan-mujeeb/QR-Code-scanner/blob/product/contribution.md):
-
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make the necessary changes in your branch.
 4. Commit your changes and push them to your forked repository.
 5. Submit a pull request, explaining your changes and the rationale behind them.
 
-## Discuss 💬
 
-Have any questions, doubts or want to present your opinions, views? You're always welcome.
-You can [start discussions](https://github.com/khan-mujeeb/QR-Code-scanner/discussions).
-
-## Contact
-
-If you have any questions or encounter any issues, please contact [mujeebkhan1831@gmail.com]. We appreciate your feedback and support!
-
-## Our Contributors
-
-<a href="https://github.com/khan-mujeeb/QR-Code-scanner/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=khan-mujeeb/QR-Code-scanner" />
-</a>
 
 
