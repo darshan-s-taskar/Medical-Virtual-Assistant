@@ -37,12 +37,12 @@ https://github.com/khan-mujeeb/sick-Predict/assets/89351750/17427fc5-bd32-4ecb-8
 
 ## Features
 
-- **Predicts Diseases:** Sick Predict uses symptoms to predict diseases and suggests medicines accordingly.
+- **Predicts Diseases:** Medical Virtual Assistant uses symptoms to predict diseases and suggests medicines accordingly.
 - **Consult with Doctors:** Users can consult with doctors through chat within the app.
 - **Home Remedies:** The app integrates Gemini API to provide users with home remedies for their symptoms.
-- **Secure Payment:** Sick Predict uses Razorpay for a secure payment gateway.
+- **Secure Payment:** Medical Virtual Assistant uses Razorpay for a secure payment gateway.
 - **User-Friendly Interface:** The app is designed with a user-friendly interface for easy navigation.
-- **Scalable Code:** Sick Predict follows the MVVM architecture, ensuring scalable and maintainable code.
+- **Scalable Code:** Medical Virtual Assistant follows the MVVM architecture, ensuring scalable and maintainable code.
 
   
 
